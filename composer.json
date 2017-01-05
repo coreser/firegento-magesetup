@@ -1,5 +1,5 @@
 {
-    "name": "firegento/magesetup",
+    "name": "coreser/firegento-magesetup",
     "license": "GPL-3.0",
     "type": "magento-module",
     "description": "See the full list of features including several screenshots at https://github.com/firegento/firegento-magesetup/blob/development/docs/features/features.markdown. Central features of MageSetup are: Setting of important configuration settings per Country; Predefined tax settings and tax classes for shipping from several countries to worldwide destinations; Assign new tax classes to all products (configurable); Creation of email templates based on the local language pack (Legal texts can be added to some templates automatically); Creation and Activation of Checkout Agreements (Agreements can be shown at customer registration instead of or additional to the checkout. They can be required or not); Creation of default CMS pages like imprint, terms and conditions, privacy, shipping, payment methods; Create email templates, cms pages and blocks as well as checkout agreements for store views with a different language as well; Possibility to add tax and/or shipping info to all prices; Automatical generation of meta data to products; Saving of every status change of newsletter subscriptions; Presets are configurable via xml files for every country seperately; Many more.",
