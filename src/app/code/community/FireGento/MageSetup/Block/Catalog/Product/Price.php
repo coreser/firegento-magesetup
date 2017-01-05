@@ -87,7 +87,7 @@ class FireGento_MageSetup_Block_Catalog_Product_Price
                 ->toHtml();
             $htmlObject->setHtml($htmlTemplate);
 
-            $this->_addDeliveryTimeHtml($htmlObject);
+            //$this->_addDeliveryTimeHtml($htmlObject);
 
             Mage::dispatchEvent('magesetup_after_product_price',
                 array(
